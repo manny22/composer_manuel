@@ -1,0 +1,19 @@
+{
+    "name": "manny22/composer_manuel",
+    "description": "practica composer",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Manuel Cuevas",
+            "email": "manuel.master2000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-0": {
+            "HelloWorld": "src/" 
+        }
+    }
+}
